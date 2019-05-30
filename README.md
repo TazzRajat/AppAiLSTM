@@ -1,0 +1,2 @@
+# AppAiLSTM
+LSTM assignment
